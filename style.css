@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+
+#a p{
+	background:#999;padding:20px;width:100px;transition-duration:3s;
+}
+#a:hover p{
+	border-radius:10px;
+	transform:translate(800px);
+	cursor:pointer;
+}
+
+.box{
+	transition-timing-function: linear;
+	
+	
+}
